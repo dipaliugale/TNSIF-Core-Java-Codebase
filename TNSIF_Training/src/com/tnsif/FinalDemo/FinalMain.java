@@ -4,8 +4,8 @@ public class FinalMain {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		FinalClass f=new FinalClass();
-		f.show();
+		FinalClass f1=new FinalClass();
+		f1.show();
 
 	}
 

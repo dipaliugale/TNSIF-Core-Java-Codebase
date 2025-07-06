@@ -1,10 +1,27 @@
 package com.tnsif.FinalDemo;
 
-final class FinalClass {
+final class FinalClass{
 	
-	void show() 
+	void show ()
 	{
-		System.out.println("Final class cannot be inherit");
+		System.out.println("Final class cannot be inherited");
 	}
-
 }
+
+
+//class Student extends FinalClass{
+//	
+//}
+
+
+
+//public class FinalClassDemo {
+//
+//	public static void main(String[] args) {
+//		
+//		FinalClass f=new FinalClass();
+//		f.show();
+//
+//	}
+//
+//}

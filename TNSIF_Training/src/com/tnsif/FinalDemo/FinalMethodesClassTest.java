@@ -1,14 +1,17 @@
 package com.tnsif.FinalDemo;
 
 public class FinalMethodesClassTest  extends FinalMethodsClass{
-	
-	void display() {
-		System.out.println("Dipa");
-	}
-	//Compile time error
-//	@Override
-//	void show() {
-//		System.out.println("this is a final methos of parent class");
-//	}
 
+	void display()
+	{
+		System.out.println("ghfhghj");
+	}
+	
+	//Compile time error 
+//	@Override
+//	void show()
+//	{
+//		System.out.println("This is a final method of a parent class ");
+//		
+//	}
 }
