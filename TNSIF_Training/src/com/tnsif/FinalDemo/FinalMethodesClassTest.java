@@ -3,7 +3,7 @@ package com.tnsif.FinalDemo;
 public class FinalMethodesClassTest  extends FinalMethodsClass{
 	
 	void display() {
-		System.out.println("Dipali");
+		System.out.println("Dipa");
 	}
 	//Compile time error
 //	@Override
