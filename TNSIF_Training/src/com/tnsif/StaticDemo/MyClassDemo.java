@@ -16,8 +16,8 @@ public class MyClassDemo {
 		MyClass obj2=new MyClass();
 		System.out.println(obj2);
 		
-		MyClass obj1=new MyClass();
-		System.out.println(obj1);
+		MyClass obj3=new MyClass();
+		System.out.println(obj3);
 		
 
 	}
