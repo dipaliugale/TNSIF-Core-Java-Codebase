@@ -6,7 +6,7 @@ public class Employee {
 	private String name;
 	private int id;
 	
-	static String companyName= "TNSIF";
+	static String companyName= "tnsif";
 
 	public Employee(String name, int id) {
 		super();

@@ -7,8 +7,8 @@ public class EmployeeDemo {
 		
 		//Creating the first class
 		
-		Employee e = new Employee ("Dipa", 1000);
-		System.out.println(e);
+		Employee E = new Employee ("Dipa", 1000);
+		System.out.println(E);
 
 	}
 
