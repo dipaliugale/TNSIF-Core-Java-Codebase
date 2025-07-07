@@ -9,7 +9,7 @@ public class MyClass {
 	//Static block
 	static
 	{
-		System.out.println("Within Static block");	
+		System.out.println("--Within Static block--");	
 		srNo=1000;
 //		section=9;
 		
