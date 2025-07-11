@@ -9,7 +9,7 @@ public class ChildDemo {
 		ChildThread c1 = new ChildThread(3, "TNSIF");
 		c.start();
 		c1.start();
-		System.out.println("Code is end---");
+		System.out.println("Code is end");
 
 	}
 

@@ -22,9 +22,9 @@ public class ThreadMethodsDemo {
 		} catch (InterruptedException e)
 		{
 			Thread.currentThread().interrupt(); //Restor interruptede Status
-			System.err.println("Thread Interrupt: " + e.getMessage()); //
+			System.err.println("Thread Interrupt: " + e.getMessage()); 
 		}
-		System.out.println("...End of Program...");
+		System.out.println("...End of Program....");
 	}
 
 }

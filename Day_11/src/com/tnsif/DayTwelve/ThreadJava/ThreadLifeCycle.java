@@ -20,7 +20,7 @@ public class ThreadLifeCycle extends Thread{
 		}
 		catch (InterruptedException e)
 		{
-			System.err.println("thread interrupted ...."+ e.getMessage());
+			System.err.println("thread interrupted ..."+ e.getMessage());
 		}
 	}
 
