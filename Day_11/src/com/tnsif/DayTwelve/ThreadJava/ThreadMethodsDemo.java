@@ -21,7 +21,7 @@ public class ThreadMethodsDemo {
 			t2.join(); //wait current thread until t2 is dead
 		} catch (InterruptedException e)
 		{
-			Thread.currentThread().interrupt(); //Restor interruptede Status
+			Thread.currentThread().interrupt(); //Restor interruptede status
 			System.err.println("Thread Interrupt: " + e.getMessage()); 
 		}
 		System.out.println("...End of Program....");
